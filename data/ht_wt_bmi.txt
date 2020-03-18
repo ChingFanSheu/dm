@@ -1,0 +1,132 @@
+Country	 	Average height	Weight	BMI	 	Average height	Weight	BMI
+Netherlands	 	1.83 m	87.4 kg	26.1	 	1.69 m	72.3 kg	25.3
+Latvia	 	1.81 m	88.8 kg	27.1	 	1.69 m	75.4 kg	26.4
+Denmark	 	1.81 m	86.2 kg	26.3	 	1.68 m	69.4 kg	24.6
+Estonia	 	1.81 m	88.5 kg	27.0	 	1.68 m	73.4 kg	26.0
+Bosnia and Herzegovina	 	1.81 m	86.5 kg	26.4	 	1.67 m	70.6 kg	25.3
+Iceland	 	1.81 m	88.8 kg	27.1	 	1.67 m	71.4 kg	25.6
+Serbia	 	1.81 m	87.5 kg	26.7	 	1.67 m	71.7 kg	25.7
+Belgium	 	1.81 m	87.8 kg	26.8	 	1.65 m	70.0 kg	25.7
+Czechia	 	1.80 m	91.0 kg	28.1	 	1.68 m	74.5 kg	26.4
+Croatia	 	1.80 m	90.7 kg	28.0	 	1.66 m	74.1 kg	26.9
+Norway	 	1.80 m	88.8 kg	27.4	 	1.66 m	72.2 kg	26.2
+Sweden	 	1.80 m	86.8 kg	26.8	 	1.66 m	70.0 kg	25.4
+Germany	 	1.80 m	88.8 kg	27.4	 	1.66 m	71.6 kg	26.0
+Slovenia	 	1.80 m	86.2 kg	26.6	 	1.66 m	73.3 kg	26.6
+Finland	 	1.80 m	86.2 kg	26.6	 	1.66 m	70.8 kg	25.7
+Slovakia	 	1.79 m	87.8 kg	27.4	 	1.67 m	71.4 kg	25.6
+Lithuania	 	1.79 m	86.8 kg	27.1	 	1.66 m	71.9 kg	26.1
+Australia	 	1.79 m	88.8 kg	27.7	 	1.65 m	73.0 kg	26.8
+France	 	1.79 m	83.3 kg	26.0	 	1.65 m	66.4 kg	24.4
+Ukraine	 	1.78 m	85.5 kg	27.0	 	1.66 m	72.7 kg	26.4
+Belarus	 	1.78 m	84.0 kg	26.5	 	1.66 m	74.1 kg	26.9
+Bulgaria	 	1.78 m	86.2 kg	27.2	 	1.65 m	70.5 kg	25.9
+Ireland	 	1.78 m	88.7 kg	28.0	 	1.65 m	73.8 kg	27.1
+Austria	 	1.78 m	84.3 kg	26.6	 	1.65 m	67.2 kg	24.7
+Luxembourg	 	1.78 m	86.2 kg	27.2	 	1.65 m	70.0 kg	25.7
+New Zealand	 	1.78 m	89.3 kg	28.2	 	1.65 m	76.2 kg	28.0
+Montenegro	 	1.78 m	85.5 kg	27.0	 	1.65 m	71.3 kg	26.2
+United Kingdom	 	1.78 m	86.8 kg	27.4	 	1.64 m	72.9 kg	27.1
+Canada	 	1.78 m	86.8 kg	27.4	 	1.64 m	71.8 kg	26.7
+Switzerland	 	1.78 m	84.9 kg	26.8	 	1.64 m	64.0 kg	23.8
+Macedonia	 	1.78 m	86.5 kg	27.3	 	1.60 m	67.3 kg	26.3
+Tonga	 	1.77 m	96.2 kg	30.7	 	1.66 m	93.4 kg	33.9
+Grenada	 	1.77 m	78.6 kg	25.1	 	1.65 m	78.4 kg	28.8
+French Polynesia	 	1.77 m	92.7 kg	29.6	 	1.65 m	80.3 kg	29.5
+Italy	 	1.77 m	83.6 kg	26.7	 	1.64 m	67.0 kg	24.9
+Greece	 	1.77 m	86.5 kg	27.6	 	1.64 m	72.4 kg	26.9
+Poland	 	1.77 m	85.8 kg	27.4	 	1.64 m	70.2 kg	26.1
+Hungary	 	1.77 m	88.3 kg	28.2	 	1.64 m	71.5 kg	26.6
+United States	 	1.77 m	90.9 kg	29.0	 	1.64 m	78.0 kg	29.0
+Israel	 	1.77 m	86.8 kg	27.7	 	1.62 m	71.1 kg	27.1
+American Samoa	 	1.76 m	102.5 kg	33.1	 	1.65 m	95.8 kg	35.2
+Barbados	 	1.76 m	81.8 kg	26.4	 	1.65 m	79.8 kg	29.3
+Russia	 	1.76 m	80.2 kg	25.9	 	1.65 m	72.7 kg	26.7
+Niue	 	1.76 m	97.6 kg	31.5	 	1.64 m	89.8 kg	33.4
+Spain	 	1.76 m	84.3 kg	27.2	 	1.63 m	66.7 kg	25.1
+Cook Islands	 	1.75 m	100.1 kg	32.7	 	1.64 m	89.6 kg	33.3
+Georgia	 	1.75 m	84.2 kg	27.5	 	1.63 m	73.6 kg	27.7
+Jamaica	 	1.75 m	79.0 kg	25.8	 	1.63 m	78.6 kg	29.6
+Romania	 	1.75 m	83.0 kg	27.1	 	1.63 m	71.2 kg	26.8
+Tokelau	 	1.75 m	98.0 kg	32.0	 	1.63 m	89.5 kg	33.7
+Albania	 	1.74 m	81.7 kg	27.0	 	1.62 m	69.3 kg	26.4
+South Korea	 	1.74 m	73.9 kg	24.4	 	1.62 m	60.6 kg	23.1
+Samoa	 	1.74 m	92.3 kg	30.5	 	1.62 m	89.5 kg	34.1
+Greenland	 	1.74 m	79.0 kg	26.1	 	1.61 m	69.2 kg	26.7
+Turkey	 	1.74 m	82.4 kg	27.2	 	1.60 m	73.7 kg	28.8
+Argentina	 	1.74 m	84.5 kg	27.9	 	1.59 m	69.8 kg	27.6
+Portugal	 	1.73 m	78.7 kg	26.3	 	1.63 m	67.5 kg	25.4
+Bermuda	 	1.73 m	82.6 kg	27.6	 	1.61 m	75.9 kg	29.3
+Brazil	 	1.73 m	78.7 kg	26.3	 	1.60 m	68.6 kg	26.8
+Taiwan	 	1.73 m	74.8 kg	25.0	 	1.60 m	60.7 kg	23.7
+Iran	 	1.73 m	75.7 kg	25.3	 	1.59 m	68.8 kg	27.2
+Saint Lucia	 	1.72 m	87.3 kg	29.5	 	1.63 m	80.5 kg	30.3
+Mali	 	1.72 m	67.7 kg	22.9	 	1.61 m	59.9 kg	23.1
+Chad	 	1.72 m	65.1 kg	22.0	 	1.61 m	56.8 kg	21.9
+Kazakhstan	 	1.72 m	77.8 kg	26.3	 	1.60 m	68.1 kg	26.6
+Kuwait	 	1.72 m	85.8 kg	29.0	 	1.60 m	78.3 kg	30.6
+Singapore	 	1.72 m	71.9 kg	24.3	 	1.60 m	59.4 kg	23.2
+Jordan	 	1.72 m	83.7 kg	28.3	 	1.59 m	75.8 kg	30.0
+Cuba	 	1.72 m	74.8 kg	25.3	 	1.59 m	66.0 kg	26.1
+Dominican Republic	 	1.72 m	75.7 kg	25.6	 	1.58 m	68.4 kg	27.4
+Hong Kong	 	1.72 m	72.5 kg	24.5	 	1.58 m	59.4 kg	23.8
+Qatar	 	1.71 m	84.2 kg	28.8	 	1.60 m	77.3 kg	30.2
+Algeria	 	1.71 m	72.2 kg	24.7	 	1.59 m	67.0 kg	26.5
+United Arab Emirates	 	1.71 m	82.2 kg	28.1	 	1.59 m	74.6 kg	29.5
+Chile	 	1.71 m	81.3 kg	27.8	 	1.59 m	71.3 kg	28.2
+Kenya	 	1.71 m	64.9 kg	22.2	 	1.59 m	61.7 kg	24.4
+China	 	1.71 m	70.5 kg	24.1	 	1.59 m	59.4 kg	23.5
+Syria	 	1.71 m	80.1 kg	27.4	 	1.59 m	74.1 kg	29.3
+Japan	 	1.71 m	69.0 kg	23.6	 	1.58 m	54.7 kg	21.9
+North Korea	 	1.71 m	70.8 kg	24.2	 	1.58 m	59.9 kg	24.0
+Morocco	 	1.71 m	74.3 kg	25.4	 	1.58 m	66.4 kg	26.6
+Mauritius	 	1.71 m	71.9 kg	24.6	 	1.57 m	64.1 kg	26.0
+Venezuela	 	1.71 m	78.1 kg	26.7	 	1.57 m	66.3 kg	26.9
+Cameroon	 	1.70 m	68.2 kg	23.6	 	1.60 m	64.3 kg	25.1
+Saint Kitts and Nevis	 	1.70 m	81.5 kg	28.2	 	1.60 m	78.6 kg	30.7
+Ghana	 	1.70 m	65.3 kg	22.6	 	1.59 m	63.7 kg	25.2
+Tuvalu	 	1.70 m	87.0 kg	30.1	 	1.59 m	80.4 kg	31.8
+Kiribati	 	1.70 m	84.1 kg	29.1	 	1.58 m	77.6 kg	31.1
+Namibia	 	1.69 m	65.4 kg	22.9	 	1.60 m	65.0 kg	25.4
+Egypt	 	1.69 m	79.4 kg	27.8	 	1.58 m	78.4 kg	31.4
+Equatorial Guinea	 	1.69 m	63.7 kg	22.3	 	1.58 m	64.4 kg	25.8
+Belize	 	1.69 m	78.5 kg	27.5	 	1.57 m	75.4 kg	30.6
+Eritrea	 	1.69 m	58.0 kg	20.3	 	1.57 m	52.0 kg	21.1
+Micronesia	 	1.69 m	80.8 kg	28.3	 	1.57 m	77.4 kg	31.4
+Costa Rica	 	1.69 m	76.5 kg	26.8	 	1.56 m	68.1 kg	28.0
+Colombia	 	1.69 m	73.7 kg	25.8	 	1.56 m	65.0 kg	26.7
+Panama	 	1.69 m	74.8 kg	26.2	 	1.56 m	67.4 kg	27.7
+South Africa	 	1.68 m	70.8 kg	25.1	 	1.59 m	74.6 kg	29.5
+Ivory Coast	 	1.68 m	66.0 kg	23.4	 	1.59 m	61.2 kg	24.2
+Palau	 	1.68 m	83.5 kg	29.6	 	1.57 m	73.2 kg	29.7
+Somalia	 	1.68 m	63.5 kg	22.5	 	1.57 m	58.7 kg	23.8
+Sudan	 	1.68 m	65.5 kg	23.2	 	1.57 m	64.1 kg	26.0
+Ethiopia	 	1.68 m	56.7 kg	20.1	 	1.56 m	51.1 kg	21.0
+Congo (Dem. Republic)	 	1.68 m	60.4 kg	21.4	 	1.56 m	55.0 kg	22.6
+Malaysia	 	1.68 m	71.1 kg	25.2	 	1.56 m	63.5 kg	26.1
+Mexico	 	1.68 m	77.6 kg	27.5	 	1.56 m	69.4 kg	28.5
+Saudi Arabia	 	1.68 m	79.0 kg	28.0	 	1.56 m	71.5 kg	29.4
+Thailand	 	1.68 m	67.2 kg	23.8	 	1.56 m	60.8 kg	25.0
+Burundi	 	1.68 m	61.5 kg	21.8	 	1.55 m	51.7 kg	21.5
+Nauru	 	1.68 m	91.4 kg	32.4	 	1.55 m	79.5 kg	33.1
+Nigeria	 	1.67 m	63.0 kg	22.6	 	1.58 m	59.9 kg	24.0
+Ecuador	 	1.67 m	74.2 kg	26.6	 	1.54 m	66.2 kg	27.9
+Pakistan	 	1.67 m	65.0 kg	23.3	 	1.54 m	58.6 kg	24.7
+Bolivia	 	1.67 m	70.6 kg	25.3	 	1.53 m	64.8 kg	27.7
+Tanzania	 	1.66 m	61.7 kg	22.4	 	1.56 m	58.4 kg	24.0
+Afghanistan	 	1.65 m	61.5 kg	22.6	 	1.56 m	58.4 kg	24.0
+Burma	 	1.65 m	60.4 kg	22.2	 	1.54 m	54.5 kg	23.0
+Sri Lanka	 	1.65 m	61.3 kg	22.5	 	1.54 m	56.2 kg	23.7
+Peru	 	1.65 m	71.3 kg	26.2	 	1.53 m	63.4 kg	27.1
+India	 	1.65 m	59.1 kg	21.7	 	1.52 m	50.6 kg	21.9
+Vietnam	 	1.64 m	58.4 kg	21.7	 	1.53 m	50.8 kg	21.7
+Marshall Islands	 	1.64 m	78.0 kg	29.0	 	1.52 m	70.7 kg	30.6
+Bangladesh	 	1.64 m	57.3 kg	21.3	 	1.51 m	49.7 kg	21.8
+Cambodia	 	1.63 m	58.5 kg	22.0	 	1.53 m	52.0 kg	22.2
+Indonesia	 	1.63 m	59.5 kg	22.4	 	1.52 m	54.8 kg	23.7
+Madagascar	 	1.63 m	57.1 kg	21.5	 	1.52 m	48.7 kg	21.1
+Philippines	 	1.63 m	60.6 kg	22.8	 	1.49 m	52.2 kg	23.5
+Yemen	 	1.62 m	61.9 kg	23.6	 	1.55 m	57.7 kg	24.0
+Nepal	 	1.62 m	59.0 kg	22.5	 	1.51 m	50.8 kg	22.3
+Timor-Leste	 	1.60 m	54.3 kg	21.2	 	1.51 m	48.3 kg	21.2
+Laos	 	1.60 m	57.9 kg	22.6	 	1.51 m	52.4 kg	23.0
